@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to start with git and node",
+  "main": "formcontrol.html",
+  "scripts": {
+    "start": "npm run lite",
+
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajapati1020/engine.git"
+  },
+  "author": "Arjit Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajapati1020/engine/issues"
+  },
+  "homepage": "https://github.com/prajapati1020/engine#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
